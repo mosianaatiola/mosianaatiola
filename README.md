@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mosiana 'Atiola
+# 👋 Hi, I'm Mosiana Atiola
 
 ## 📊 Data Analytics Student | SQL | Power BI | Excel
 
