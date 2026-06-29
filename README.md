@@ -4,25 +4,32 @@
 
 📍 Auckland, New Zealand
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 🎓 Postgraduate Diploma in Science (Data Analytics)
 AUT University | 2026–2027
 
 💼 Recently completed a Data Analytics Internship with Buzzly (Auckland Council), developing automated reporting frameworks and youth insight reports using Power Query, Excel and AI-assisted analysis.
 
-🌱 Currently learning Python, Microsoft Fabric and advanced Power BI.
-🌱 Learning: SQL, Power BI, Microsoft Fabric  
-
 ---
 
-### 📁 Portfolio Projects
+### 💼 Professional Experience & Projects
 
 | Project                                    | Description                                                                                                                                                                                                                                                                                                                | Tools                                                             |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Buzzly Youth Pulse Reporting Framework** | Developed a reusable reporting system that automated data preparation, qualitative coding, thematic analysis and report generation for Auckland Council's Buzzly Youth Pulse programme. Produced Education & Learning and Youth Voice & Participation insight reports and comprehensive documentation for future analysts. | Excel, Power Query, Pivot Tables, Qualitative Analysis, AI, Canva |
+| **Buzzly Youth Pulse Reporting Framework** | Developed a reusable reporting framework that automated data preparation, qualitative coding, thematic analysis and report generation for Auckland Council's Buzzly Youth Pulse programme. Delivered two professional insight reports and comprehensive documentation to support future reporting and analysis. |
 
 | Project                     | Description                                                                                                                                                                                                             | Tools                                     |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| **Youth Insight Reporting** | Analysed over 400 youth submissions across multiple community engagement challenges. Designed thematic coding frameworks, automated reporting workflows and created evidence-based recommendations for decision makers. | Power Query, Excel, AI, Data Storytelling |
+| **Youth Insight Reporting** | Analysed over 400 youth submissions across multiple community engagement challenges to identify key themes and trends. Designed qualitative coding frameworks, automated reporting workflows and produced evidence-based recommendations for stakeholders.| Power Query, Excel, AI, Data Storytelling |
 
 
 #### Power BI & Microsoft Fabric
@@ -46,23 +53,23 @@ AUT University | 2026–2027
 
 • Power Query (Advanced)
 
-• SQL
-
 • Power BI
 
-• Microsoft Fabric
+• SQL
 
 • DAX
 
-• Git & GitHub
-
-• Data Cleaning
+• Microsoft Fabric
 
 • ETL
 
-• Qualitative Analysis
+• Data Cleaning
 
 • Data Visualisation
+
+• Qualitative Analysis
+
+• Git & GitHub
 
 • Canva
 
