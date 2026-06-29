@@ -1,14 +1,29 @@
 # 👋 Hi, I'm Mosiana Atiola
 
-## 📊 Data Analytics Student | SQL | Power BI | Excel
+## 📊 Data Analyst | SQL | Power BI | Excel
 
-📍 Auckland, New Zealand  
-📚 Currently completing Diploma in Data Analytics at Mission Ready HQ  
+📍 Auckland, New Zealand
+
+🎓 Postgraduate Diploma in Science (Data Analytics)
+AUT University | 2026–2027
+
+💼 Recently completed a Data Analytics Internship with Buzzly (Auckland Council), developing automated reporting frameworks and youth insight reports using Power Query, Excel and AI-assisted analysis.
+
+🌱 Currently learning Python, Microsoft Fabric and advanced Power BI.
 🌱 Learning: SQL, Power BI, Microsoft Fabric  
 
 ---
 
 ### 📁 Portfolio Projects
+
+| Project                                    | Description                                                                                                                                                                                                                                                                                                                | Tools                                                             |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Buzzly Youth Pulse Reporting Framework** | Developed a reusable reporting system that automated data preparation, qualitative coding, thematic analysis and report generation for Auckland Council's Buzzly Youth Pulse programme. Produced Education & Learning and Youth Voice & Participation insight reports and comprehensive documentation for future analysts. | Excel, Power Query, Pivot Tables, Qualitative Analysis, AI, Canva |
+
+| Project                     | Description                                                                                                                                                                                                             | Tools                                     |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Youth Insight Reporting** | Analysed over 400 youth submissions across multiple community engagement challenges. Designed thematic coding frameworks, automated reporting workflows and created evidence-based recommendations for decision makers. | Power Query, Excel, AI, Data Storytelling |
+
 
 #### Power BI & Microsoft Fabric
 
@@ -27,12 +42,32 @@
 
 ### 🛠️ Tools & Technologies
 
-- SQL
-- Power BI
-- Microsoft Fabric
-- Excel
-- Git & GitHub
+• Excel
+
+• Power Query (Advanced)
+
+• SQL
+
+• Power BI
+
+• Microsoft Fabric
+
+• DAX
+
+• Git & GitHub
+
+• Data Cleaning
+
+• ETL
+
+• Qualitative Analysis
+
+• Data Visualisation
+
+• Canva
+
+• ChatGPT / Generative AI
 
 ---
 
-*This portfolio is a work in progress.*
+I'm passionate about using data to solve real-world problems through automation, reporting and visualisation.
