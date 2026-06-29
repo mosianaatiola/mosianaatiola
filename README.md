@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Mosiana Atiola
 
-## 📊 Data Analyst | SQL | Power BI | Excel
+## 📊 Data Analyst | Power BI | SQL | Power Query | Excel
 
 📍 Auckland, New Zealand
+💼 LinkedIn: linkedin.com/in/mosiana-atiola
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -19,17 +20,14 @@ AUT University | 2026–2027
 
 💼 Recently completed a Data Analytics Internship with Buzzly (Auckland Council), developing automated reporting frameworks and youth insight reports using Power Query, Excel and AI-assisted analysis.
 
+I'm a data analyst with a background in finance and experience developing automated reporting frameworks, dashboards and insight reports. I enjoy transforming complex datasets into meaningful insights through automation, data visualisation and storytelling, and I'm currently expanding my skills in Python and Microsoft Fabric.
 ---
 
 ### 💼 Professional Experience & Projects
+| Project                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Tools                                                                                                                                                                  |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Buzzly Youth Pulse Reporting Framework** | Developed a reusable reporting framework that automated data preparation, transformation, qualitative coding, thematic analysis and report generation for Auckland Council's Buzzly Youth Pulse programme. Built Power Query workflows to clean and structure youth engagement data, created reusable Excel reporting templates and qualitative coding frameworks, and produced two professional insight reports (Education & Learning and Youth Voice & Participation). Authored comprehensive documentation and handover guides to support future reporting, analysis and ongoing use of the framework. | Excel, Power Query, Power Query M, Pivot Tables, Data Cleaning, ETL, Qualitative Analysis, Thematic Analysis, Data Storytelling, AI-assisted Analysis (ChatGPT), Canva |
 
-| Project                                    | Description                                                                                                                                                                                                                                                                                                                | Tools                                                             |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Buzzly Youth Pulse Reporting Framework** | Developed a reusable reporting framework that automated data preparation, qualitative coding, thematic analysis and report generation for Auckland Council's Buzzly Youth Pulse programme. Delivered two professional insight reports and comprehensive documentation to support future reporting and analysis. |
-
-| Project                     | Description                                                                                                                                                                                                             | Tools                                     |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| **Youth Insight Reporting** | Analysed over 400 youth submissions across multiple community engagement challenges to identify key themes and trends. Designed qualitative coding frameworks, automated reporting workflows and produced evidence-based recommendations for stakeholders.| Power Query, Excel, AI, Data Storytelling |
 
 
 #### Power BI & Microsoft Fabric
@@ -37,15 +35,25 @@ AUT University | 2026–2027
 | Project | Description | Tools |
 |---------|-------------|-------|
 | ANZ Bank Analytics Challenge | Analysed banking transaction data to identify customer spending patterns. Created PowerPoint presentation and coordinated team video submission. | Microsoft Fabric, PowerPoint, Jira, Geekbot |
-| Comparative Sales Dashboard | Built parallel dashboards for two business units. Developed time-intelligence measures and 90-day forecast model. | Power BI, DAX |
+| Comparative Sales Dashboard | Developed interactive Power BI dashboards for two business units, incorporating DAX measures, time intelligence and a 90-day forecasting model. | Power BI, DAX |
 
 #### SQL
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| Game Data Analysis | Cleaned, merged and analysed relational datasets. Automated report generation to identify trends. | SQL, Generative AI |
+| Game Data Analysis | Cleaned, merged and analysed relational datasets. Used SQL to clean, join and analyse relational datasets, producing automated reports that identified key business trends and insights. | SQL, Generative AI |
 
 ---
+## 🎯 Core Competencies
+
+- Data Analysis
+- ETL & Data Transformation
+- Dashboard Development
+- Report Automation
+- Data Visualisation
+- Qualitative Research
+- Business Reporting
+- Data Storytelling
 
 ### 🛠️ Tools & Technologies
 
@@ -77,4 +85,4 @@ AUT University | 2026–2027
 
 ---
 
-I'm passionate about using data to solve real-world problems through automation, reporting and visualisation.
+I'm passionate about transforming data into meaningful insights through automation, reporting, visualisation and continuous learning.
