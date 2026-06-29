@@ -3,7 +3,7 @@
 ## 📊 Data Analyst | Power BI | SQL | Power Query | Excel
 
 📍 Auckland, New Zealand
-💼 LinkedIn: linkedin.com/in/mosiana-atiola
+💼 LinkedIn: https://www.linkedin.com/in/mosiana-atiola
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -20,13 +20,14 @@ AUT University | 2026–2027
 
 💼 Recently completed a Data Analytics Internship with Buzzly (Auckland Council), developing automated reporting frameworks and youth insight reports using Power Query, Excel and AI-assisted analysis.
 
-I'm a data analyst with a background in finance and experience developing automated reporting frameworks, dashboards and insight reports. I enjoy transforming complex datasets into meaningful insights through automation, data visualisation and storytelling, and I'm currently expanding my skills in Python and Microsoft Fabric.
+I'm a data analyst with a background in finance and practical experience delivering automated reporting solutions, dashboards and insight reports. I enjoy transforming complex datasets into meaningful insights through automation, data visualisation and storytelling, and I'm currently expanding my skills in Python, Microsoft Fabric and cloud analytics.
+
 ---
 
 ### 💼 Professional Experience & Projects
 | Project                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Tools                                                                                                                                                                  |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Buzzly Youth Pulse Reporting Framework** | Developed a reusable reporting framework that automated data preparation, transformation, qualitative coding, thematic analysis and report generation for Auckland Council's Buzzly Youth Pulse programme. Built Power Query workflows to clean and structure youth engagement data, created reusable Excel reporting templates and qualitative coding frameworks, and produced two professional insight reports (Education & Learning and Youth Voice & Participation). Authored comprehensive documentation and handover guides to support future reporting, analysis and ongoing use of the framework. | Excel, Power Query, Power Query M, Pivot Tables, Data Cleaning, ETL, Qualitative Analysis, Thematic Analysis, Data Storytelling, AI-assisted Analysis (ChatGPT), Canva |
+| **Buzzly Youth Pulse Reporting Framework** |Developed a reusable reporting framework for Auckland Council's Buzzly Youth Pulse programme, automating data preparation, transformation, qualitative coding, thematic analysis and report generation. Built Power Query workflows, reusable Excel reporting templates and qualitative coding frameworks, producing two professional insight reports (Education & Learning and Youth Voice & Participation) alongside comprehensive documentation and handover guides for future analysts. | Excel, Power Query, Power Query M, Pivot Tables, Data Cleaning, ETL, Qualitative Analysis, Thematic Analysis, Data Storytelling, AI-assisted Analysis (ChatGPT), Canva |
 
 
 
@@ -41,12 +42,13 @@ I'm a data analyst with a background in finance and experience developing automa
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| Game Data Analysis | Cleaned, merged and analysed relational datasets. Used SQL to clean, join and analyse relational datasets, producing automated reports that identified key business trends and insights. | SQL, Generative AI |
+| Game Data Analysis | Cleaned, joined and analysed relational datasets using SQL to identify key business trends and automate report generation. | SQL, Generative AI |
 
 ---
 ## 🎯 Core Competencies
 
 - Data Analysis
+- Qualitative Data Analysis
 - ETL & Data Transformation
 - Dashboard Development
 - Report Automation
